@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/archtechture_app/static/css/main.c7bb90e5.css",
+    "main.js": "/archtechture_app/static/js/main.d6af6aab.js",
+    "static/media/four6.jpg": "/archtechture_app/static/media/four6.8f9749e32c63f1a3c6b4.jpg",
+    "static/media/four1.jpg": "/archtechture_app/static/media/four1.95dafca53a76878a7e40.jpg",
+    "static/media/secondin.jpg": "/archtechture_app/static/media/secondin.ada075528a553e80a5ad.jpg",
+    "static/media/four3.jpg": "/archtechture_app/static/media/four3.df02f084c27f239faf4d.jpg",
+    "static/media/four7.jpg": "/archtechture_app/static/media/four7.c6c074432a99d1e1ba27.jpg",
+    "static/media/four5.jpg": "/archtechture_app/static/media/four5.3f208131281f00f144f5.jpg",
+    "static/media/four2.jpg": "/archtechture_app/static/media/four2.ec8dba3fc54ccdfbf2af.jpg",
+    "static/media/four4.jpg": "/archtechture_app/static/media/four4.ac6dcaa41eedb9c91d55.jpg",
+    "static/media/firstin.jpg": "/archtechture_app/static/media/firstin.2079f5358d019c029ec7.jpg",
+    "static/media/four8.jpg": "/archtechture_app/static/media/four8.2f07a93da9f69af816cc.jpg",
+    "static/media/homein.jpg": "/archtechture_app/static/media/homein.d9ce68d57cf8dcdc02c0.jpg",
+    "static/media/contactas.jpg": "/archtechture_app/static/media/contactas.4d36829d05e585be70e6.jpg",
+    "index.html": "/archtechture_app/index.html",
+    "main.c7bb90e5.css.map": "/archtechture_app/static/css/main.c7bb90e5.css.map",
+    "main.d6af6aab.js.map": "/archtechture_app/static/js/main.d6af6aab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7bb90e5.css",
+    "static/js/main.d6af6aab.js"
+  ]
+}
